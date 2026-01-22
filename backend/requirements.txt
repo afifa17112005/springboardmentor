@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+numpy
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2f07e9f (Enable Swagger docs)
+
